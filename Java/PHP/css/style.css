@@ -1,0 +1,13 @@
+h1 {
+    color: whitesmoke;
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+    margin-left: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+p {
+    font-size: 20px;
+}
