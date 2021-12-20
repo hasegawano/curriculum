@@ -1,18 +1,18 @@
-h1 {
-    color: blue;
-    background-color: pink;
-    width: 500px;
-    height: 200px;
-    margin-left: 200px;
-    padding-left: 50px;
-    padding-top: 50px;
-    padding-bottom: 10px;
+.container {
+    display: flex;
 }
-p {
-    color: red;
-    font-size: 20px;
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
 }
-.target {
-    color: blue;
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
 }
-
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
