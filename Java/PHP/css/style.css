@@ -3,12 +3,27 @@
     justify-content: space-between;
     text-decoration: none;
 }
+.header {
+    background-color: skyblue;
+}
 .header ul {
     color: white;
     display: flex;
     justify-content: space-between;
     list-style: none;
-    background-color: skyblue;
-    width: 650px;
-    height: 100px;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0px;
+    list-style: none;
+}
+.header ul li a{
+    color: white;
+    text-decoration: none;
+}
+.body {
+    margin: 0;
+    padding: 0;
+}
+.select {
+   color: red;   
 }
