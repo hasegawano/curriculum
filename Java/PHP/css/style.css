@@ -1,18 +1,14 @@
 .container {
     display: flex;
+    justify-content: space-between;
+    text-decoration: none;
 }
-.box1 {
-    width: 100px;
+.header ul {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    background-color: skyblue;
+    width: 650px;
     height: 100px;
-    background-color: red;
-}
-.box2 {
-    width: 100px;
-    height: 100px;
-    background-color: blue;
-}
-.box3 {
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
 }
